@@ -1,1 +1,4 @@
 [2026-02-01 13:52:37] Pieter: test
+[2026-02-01 16:40:46] Pieter: A message to test
+[2026-02-01 16:40:49] Pieter: A messeage to general
+[2026-02-01 16:41:04] Pieter: A message to test
