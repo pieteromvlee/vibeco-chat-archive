@@ -1,0 +1,2 @@
+[2026-02-01 20:19:09] system: Room #bowling2 was created at 2026-02-01 20:19 from message:
+    "let's go bowling" in #off-topic
