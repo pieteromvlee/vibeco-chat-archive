@@ -4,3 +4,12 @@
 [2026-02-01 16:43:34] Pieter: Message to general
 [2026-02-01 16:43:37] Pieter: Message to test
 [2026-02-01 16:44:21] Pieter: Another message to general
+[2026-02-01 16:48:54] Pieter: I think I will send to the general room
+[2026-02-01 16:49:01] Pieter: And I think I will send to the test room
+[2026-02-01 16:50:42] Pieter: to gen
+[2026-02-01 16:50:45] Pieter: to test
+[2026-02-01 16:50:49] Pieter: what
+[2026-02-01 16:50:59] Pieter: to gen
+[2026-02-01 16:51:04] Pieter: to test
+[2026-02-01 16:52:31] Pieter: to gen
+[2026-02-01 16:52:33] Pieter: to test
